@@ -1,5 +1,9 @@
+Name : B Harshala Reddy
+ 
+Register No. : 212224040050
+ 
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE: 10-04-2025
+## DATE: 09-03-2026
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -41,7 +45,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
-![4 1](https://github.com/user-attachments/assets/59560af7-a060-401a-8bea-ca1da6dd16d5)
+<img width="1192" height="847" alt="4 1N" src="https://github.com/user-attachments/assets/6e244f05-9ec6-48ec-a089-d9f14d28e5cc" />
 
 ## RESULT:
 
